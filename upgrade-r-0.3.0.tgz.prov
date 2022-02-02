@@ -1,0 +1,26 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+apiVersion: v2
+appVersion: 1.16.0
+description: A Helm chart for Kubernetes
+name: upgrade-r
+type: application
+version: 0.3.0
+
+...
+files:
+  upgrade-r-0.3.0.tgz: sha256:2c3b5e71df78d639cb94305c81dbffb1f6d2f170e83b04c1e9b8afb96705c08b
+-----BEGIN PGP SIGNATURE-----
+
+wsDcBAEBCgAQBQJh+sW2CRC2bCTLLMvwVgAABpgMAGx1CQ8uiAfMn9mjXw4eN/zM
+dq1ivQwe9Kfe1Bte0Xj/B79G3YoVaznCsoKNLSfgnH+c2bOQ4/OhXHIsCLAC76W+
+Ww/QL4eD7+dEfDWYzYPTASxWZHGG87j/VnWMENwJgeac4bbtENGEgALnYhcAkIpL
+OM64hTykvzcyNUhfj7kHJ7uD2PqU5ILKyyBuXyB9Yc94280WgYj5qIcc4Jwr84hG
+HE4w3CnHJk7Y1XKVXw6xAQXH5kXyEU7gT9hfykI26GVc3fAC59UETXSJzoZBGoj/
+Un6DzMRQX3TSHztMciRvya+8AA2lBIGj0FlfnNGld2mDQVYhF1Wixof0X9iMVlQL
+OiwvkF4O2trVP7bJxoWJL4AGem+8lXMqe45mSejCI8su1mm2tQJop+1D2Kzb1b1k
+CHLJOkX/OpKi82gYarjU95kirng8YIpqN7vJj2thPQwKRaVvZ8GQtb3lTd5iFRPI
+ke/o3B/smDjoWsGgOPo+qo0n9ygHcgXJQ13aBbJ5LQ==
+=eCcU
+-----END PGP SIGNATURE-----
